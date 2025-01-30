@@ -1,2 +1,1 @@
-# -CSS-Grid-Project
-# CREDIT CARD :star:
+# CSS GRID PROJECT :globe_with_meridians:
